@@ -8,3 +8,6 @@
 - count
 - read/modify
 - data-type
+
+**end of list**
+int end = -1
