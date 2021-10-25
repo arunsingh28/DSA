@@ -1,6 +1,6 @@
 # DSA
 
-**Defination** way to arrange data in main memory for efficient usage
+**Defination** <i>way to arrange data in main memory for efficient usage</i>
 
 ### tools
 
