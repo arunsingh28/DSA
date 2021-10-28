@@ -12,7 +12,11 @@ int main()
     // **********typecasting*************
     float a = 10;
     cout << 'the value of a' << int(a) << endl;
-    cout << "size of a" << sizeof(a);
+    cout << "size of a" << sizeof(a)<<endl;
+    
+    int b = 1;
+    cout<<"the value of b"<< float(b) <<endl;
+    cout<<"size of b:"<< sizeof(b)<<endl;
 
     return 0;
 }
